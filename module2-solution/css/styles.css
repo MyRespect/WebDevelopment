@@ -3,6 +3,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Oxygen', sans-serif;
 }
 
 h1 {
@@ -173,9 +174,10 @@ h1 {
   font-size:125%;
   position: relative;
   text-align:center;
-  background-color:#A53246;
+  background-color: #c0c0c0;
   padding-bottom:5px;
   border: 1px solid black;
+  height: auto;
 }
 
 
@@ -191,6 +193,7 @@ h1 {
   background-color:#DEB887;
   padding-bottom:5px;
   border: 1px solid black;
+  height: auto;
 }
 
 #p3{
@@ -204,10 +207,10 @@ h1 {
   background-color:#FF7F50;
   padding-bottom:5px;
   border: 1px solid black;
+  height: auto;
 }
 
 #content{
   padding:15px;
-  font-family:Helvetica;
-  color:yellow;
+  color:black;
 }
